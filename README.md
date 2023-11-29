@@ -2,7 +2,7 @@
 
 Welcome to my awesome portfolio website! This project showcases my skills, projects, and a glimpse of who I am as a developer.
 
-🌐 Live Demo - 
+🌐 Live Demo - https://nipunika1721.github.io/Codecasa-Task1/
 
 Check out the live demo -
 
